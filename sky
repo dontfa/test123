@@ -1,0 +1,9 @@
+my cod
+let a = 5/2;
+console.log(a);
+
+/*function isPowerOfThree(num) {
+  return num === 1 ||  num % 3 === 0 ? true : false;
+}
+
+isPowerOfThree(9);*/
